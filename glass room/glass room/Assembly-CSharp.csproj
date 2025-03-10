@@ -84,8 +84,8 @@
     <Compile Include="Assets/UnderwaterFantasy/Scripts/Perspective2DSortMode.cs" />
     <Compile Include="Assets/Fries and Seagull/Interior 01/Scripts/Utility/Inspector/YureiInspector.cs" />
     <Compile Include="Assets/Fries and Seagull/Interior 01/Scripts/Utility/TimeZoneConverter.cs" />
-    <Compile Include="Assets/Fries and Seagull/Interior 01/Scripts/Monitor.cs" />
     <Compile Include="Assets/Fries and Seagull/Interior 01/Scripts/SampleScene.cs" />
+    <Compile Include="Assets/Fries and Seagull/Interior 01/Scripts/Monitor.cs" />
     <Compile Include="Assets/Fries and Seagull/Interior 01/Scripts/Utility/TurnOnAble.cs" />
     <Compile Include="Assets/Fries and Seagull/Interior 01/Scripts/DeskLamp.cs" />
     <Compile Include="Assets/Fries and Seagull/Interior 01/Scripts/Utility/Inspector/IgnoreInInspectorAttribute.cs" />
@@ -963,15 +963,15 @@
     <ProjectReference Include="Unity.EditorCoroutines.Editor.csproj" />
     <ProjectReference Include="Unity.VisualScripting.SettingsProvider.Editor.csproj" />
     <ProjectReference Include="Unity.Performance.Profile-Analyzer.Editor.csproj" />
+    <ProjectReference Include="Unity.Postprocessing.Runtime.csproj" />
     <ProjectReference Include="Unity.TestTools.CodeCoverage.Editor.csproj" />
     <ProjectReference Include="Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.csproj" />
-    <ProjectReference Include="Unity.Postprocessing.Runtime.csproj" />
     <ProjectReference Include="Unity.PlasticSCM.Editor.csproj" />
     <ProjectReference Include="MIAssembly.csproj" />
+    <ProjectReference Include="Unity.Postprocessing.Editor.csproj" />
     <ProjectReference Include="Unity.VisualScripting.State.Editor.csproj" />
     <ProjectReference Include="Unity.Timeline.Editor.csproj" />
     <ProjectReference Include="Unity.VisualScripting.Shared.Editor.csproj" />
-    <ProjectReference Include="Unity.Postprocessing.Editor.csproj" />
     <ProjectReference Include="Unity.VisualStudio.Editor.csproj" />
     <ProjectReference Include="Unity.TextMeshPro.csproj" />
     <ProjectReference Include="Unity.VisualScripting.Core.csproj" />
